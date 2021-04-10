@@ -6,6 +6,6 @@ Found a cool way to trick heroku into thinking its a PHP project and hosting sta
 
 Hope you enjoy!
 
-(PHP is technically a framework according to heroku so I better get marks for that ;) )
+(PHP is technically a framework according to heroku so I better get marks for that ;) https://imgur.com/a/MTKHqPE )
 
 - Tommy
